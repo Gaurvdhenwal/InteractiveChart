@@ -1,0 +1,23 @@
+#chart-holder{
+  
+}
+
+.scroll-v{
+    max-height: 30vh;
+    overflow: scroll;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+
+}
+.comment{
+
+    .date{
+        color:grey;
+        font-size: 0.6rem;
+    }
+    .commment-value{
+        color:#000;
+        font-size: 1.2rem;
+    }
+
+}
